@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://dev-api.bigshorts.social/api/app/auth",
+  baseURL: "",
 });
 
 api.interceptors.request.use((config) => {
