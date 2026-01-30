@@ -170,55 +170,6 @@ Frontend: npm start
 
 ---
 
-## 🔐 Dataset & Model Disclaimer
-
-> 🚨 **Datasets and trained model weights are intentionally excluded.**
-
-Due to **data privacy, licensing, and proprietary constraints**, the following components are **not included**:
-
-* Training datasets
-* Fine-tuned model weights
-* Proprietary pretrained checkpoints
-
-The repository contains:
-
-* Full system architecture
-* Inference pipelines
-* API layer
-* Frontend dashboard
-* Deployment-ready infrastructure
-
----
-
-## 📌 Key Use Cases
-
-* Social media content moderation
-* Video streaming platform compliance
-* UGC filtering pipelines
-* Trust & safety automation
-* AI governance systems
-
----
-
-## 🔮 Future Enhancements
-
-* Audio moderation (speech + sound events)
-* OCR-based text extraction from images/videos
-* Multilingual hate speech detection
-* Real-time streaming moderation
-* Active learning pipeline
-
----
-
-## 🏆 Highlights
-
-* Multi-modal AI pipeline
-* Real-time moderation dashboard
-* Two-stage NSFW detection
-* Human-in-the-loop workflow
-* Scalable production-ready design
-
----
 
 ## 📜 License
 
