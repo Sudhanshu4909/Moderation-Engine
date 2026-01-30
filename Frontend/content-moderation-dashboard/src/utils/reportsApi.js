@@ -3,7 +3,7 @@
 import axios from 'axios';
 import EncryptionService from '../services/encryptionService';
 
-const API_BASE_URL = 'http://192.168.1.13:4545/api/app'; // Update with your actual domain
+const API_BASE_URL = ''; // Update with your actual domain
 
 // Mock response data
 const MOCK_RESPONSE = {
